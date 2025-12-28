@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanoqwq&count_private=true&show_icons=true)]()
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=minikano)](https://git.io/streak-stats)
